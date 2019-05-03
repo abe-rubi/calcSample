@@ -1,4 +1,4 @@
-<script type ="text/javascript">
+
 myTotal=0;                          //現在の合計値
 myInput="";                         //現在入力している値
 myCalc="+";                         //合計と入力値の演算子
@@ -32,4 +32,4 @@ function myC(){
   myInput="";
   document.myForm.my1line.value=myTotal;
 }
-</script>
+
